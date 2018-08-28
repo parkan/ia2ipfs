@@ -1,5 +1,5 @@
 # ia2ipfs
-Request Internet Archive to seed an item to IPFS
+Request Internet Archive to seed an item to IPFS. Optional second parameter specifies format (defaults to h.264)
 
 ```
 $ ./ia2ipfs.sh dweb-8_2_18_Hash_Lounge_DataStewardshipontheDecentralizedWeb
